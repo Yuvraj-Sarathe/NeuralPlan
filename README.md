@@ -84,7 +84,7 @@ Neural Plan combines four powerful features:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Mikky-mlh/NeuralPlan.git
+git clone https://github.com/Yuvraj-Sarathe/NeuralPlan.git
 cd NeuralPlan
 
 # Install dependencies
@@ -329,8 +329,8 @@ MIT License - see [LICENSE](LICENSE) file
       Neural Coach, energy modes, data management
     </td>
     <td align="center">
-      <a href="https://github.com/Mikky-mlh">
-        <img src="https://github.com/Mikky-mlh.png" width="100px;" alt="Yuvraj"/><br />
+      <a href="https://github.com/Yuvraj-Sarathe">
+        <img src="https://github.com/Yuvraj-Sarathe.png" width="100px;" alt="Yuvraj"/><br />
         <sub><b>Yuvraj Sarathe</b></sub>
       </a><br />
       Vision OCR, efficiency tracking, UI/UX design
